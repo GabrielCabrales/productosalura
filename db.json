@@ -20,7 +20,7 @@
       "nombre": "Steve - Minecraft",
       "categoria": "Funko",
       "precio": "78.65",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "descripcion": "El Funko Pop de Steve de Minecraft es una figura coleccionable basada en el personaje principal del popular videojuego Minecraft. Esta figura captura la apariencia pixelada característica del juego, con el diseño icónico de Steve, que incluye su camiseta azul y pantalones morados.",
       "imgUrl": "https://xtremeplay.pe/wp-content/uploads/2020/06/POP-GAMES-MINECRAFT-STEVE.jpg",
       "id": "dff0a92c-9d07-4338-8487-1bff7bcc99e0"
     },
@@ -28,7 +28,7 @@
       "nombre": "Creeper - Minecraft",
       "categoria": "Funko",
       "precio": "65.34",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "descripcion": "El Funko Pop del Creeper de Minecraft es una figura coleccionable que representa al famoso y temido enemigo del juego. La figura captura la apariencia distintiva del Creeper, con su cuerpo verde y textura pixelada, característicos del estilo visual de Minecraft.",
       "imgUrl": "https://www.mirax.cl/productos/n210001a220000/n213001a214000/n213301a213400/g213393.jpg",
       "id": "6487d3b6-e8f1-4881-861f-13a7362c9c6b"
     },
@@ -36,7 +36,7 @@
       "nombre": "Charmander",
       "categoria": "Funko",
       "precio": "32.54",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "descripcion": "El Funko Pop de Charmander es una figura coleccionable que representa al popular Pokémon de tipo Fuego de la primera generación. Esta figura captura el diseño adorable de Charmander, incluyendo su piel naranja, su barriga amarilla y la característica llama en la punta de su cola.",
       "imgUrl": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_114468096_1016599_1?wid=800&hei=800&qlt=70",
       "id": "e13aa446-ae34-4ec1-a281-e2d5ce42ebb2"
     },
@@ -44,7 +44,7 @@
       "nombre": "Minecraft",
       "categoria": "Juegos",
       "precio": "105.55",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "descripcion": "Minecraft es un popular videojuego de mundo abierto desarrollado por Mojang Studios, el juego permite a los jugadores explorar un vasto y generado proceduralmente mundo tridimensional compuesto por bloques cúbicos. Los jugadores pueden recolectar recursos, construir estructuras y crear herramientas y objetos para sobrevivir y prosperar en diferentes modos de juego, incluidos el Modo Supervivencia, donde deben gestionar su salud y hambre, y el Modo Creativo, donde tienen acceso ilimitado a recursos y pueden volar.",
       "imgUrl": "https://t.ctcdn.com.br/QeJlxSm6qkivX-Sro9SP3Pyen_Q=/1400x788/smart/i575891.jpeg",
       "id": "789450e5-2775-496d-af9a-2e78414aeb1c"
     },
@@ -70,6 +70,14 @@
       "precio": "1.266.906",
       "descripcion": "La Xbox Series S es la consola de nueva generación más asequible de Microsoft, lanzada junto a la Xbox Series X en noviembre de 2020. Diseñada para jugar a una resolución de 1440p y hasta 120 fps, la Series S cuenta con una GPU menos potente que la Series X, pero sigue ofreciendo un rendimiento impresionante para su tamaño compacto. Su unidad de almacenamiento SSD de 512 GB permite tiempos de carga rápidos y una experiencia de juego ágil. Aunque no tiene lector de discos, la Series S es completamente digital, lo que la convierte en una opción ideal para quienes prefieren descargar sus juegos. Al igual que la Series X, esta consola también es retrocompatible con juegos de generaciones anteriores y es compatible con Xbox Game Pass, ofreciendo una amplia selección de juegos y contenido exclusivo.",
       "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_792211-MLU72927054901_112023-F.webp",
+      "id": "c3d6aef0-008c-4b2b-8ae0-7e7be21d18a57"
+    },
+    {
+      "nombre": "Nintendo Switch Oled 64gb Standard Color Rojo Azul Neón",
+      "categoria": "Juegos",
+      "precio": "1.185.230",
+      "descripcion": "La Nintendo Switch OLED 64GB en color estándar Rojo y Azul Neón es una versión mejorada de la consola híbrida original de Nintendo. Esta edición cuenta con una pantalla OLED de 7 pulgadas, que ofrece colores más vivos y contrastes más profundos en comparación con la pantalla LCD del modelo original. La consola tiene 64GB de almacenamiento interno, el doble de la capacidad del modelo básico, lo que permite guardar más juegos y datos directamente en el dispositivo.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_803086-MLA47920649105_102021-F.webp",
       "id": "c3d6aef0-008c-4b2b-8ae0-7e7be21d18a57"
     },
     {
